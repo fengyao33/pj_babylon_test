@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### source 
+https://polyhaven.com/
+https://gametextures.com/
+
+### hdr轉環境
+https://www.babylonjs.com/tools/ibl/
